@@ -45,3 +45,5 @@ with open("kpop_demon_hunters.json", "w", encoding="utf-8") as f:
     json.dump(song_datas, f, ensure_ascii=False, indent=4)
 
 print("kpop_demon_hunters.json 파일 저장 완료")
+print("dev 브랜치 추가")
+
